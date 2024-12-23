@@ -1,0 +1,8 @@
+# Configuration des sous-serveurs
+sub_server_ports=5001,5002,5003
+
+# Nombre de partitions de fichiers
+file_partitions=3
+
+# Chemin où les fichiers sont stockés sur les sous-serveurs
+file_storage_path=D:/Compressed/socket/javafE/clients/config.txt
